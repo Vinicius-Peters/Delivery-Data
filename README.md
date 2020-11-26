@@ -10,8 +10,10 @@ The Chart of orders per week, shows all orders per week from the first record in
 ![Overall Analysis](https://raw.githubusercontent.com/Vinicius-Peters/etlDeliveryData/main/Overall%20Analysis.png)
 
 On the second page, we have two graphs, that shows a trend and forecast graph. The forecast uses the last 10 weeks to make a forecast for the next 10 weeks
+![Forecast/Trend] https://raw.githubusercontent.com/Vinicius-Peters/etlDeliveryData/main/Forecast_Trend.png
 
 Third page have a types of food per deposit, which shows the demand for each type of food per deposit. This dashboard is useful for showing how much storage space you need to allocate for each type of food, without leaving space for food that will not use as much space.
+![N° Orders by deposit/food]
 
 Average for food page shows the ticket average billing for each food, and shows the table with n orders by food.
 
