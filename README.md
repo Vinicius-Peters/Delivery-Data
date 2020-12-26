@@ -16,6 +16,7 @@ Third page have a types of food per deposit, which shows the demand for each typ
 ![N° Orders by deposit/food](https://raw.githubusercontent.com/Vinicius-Peters/etlDeliveryData/main/N%C2%B0Order%20by%20deposit_food.png)
 
 Average for food page shows the ticket average billing for each food, and shows the table with n orders by food.
+![Avg by food](https://github.com/Vinicius-Peters/etlDeliveryData/blob/main/avgByFood.png?raw=true)
 
 
 
